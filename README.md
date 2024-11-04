@@ -1,8 +1,8 @@
 # ODScan
 
-![License](https://img.shields.io/github/license/kN6jq/gatherBurp)
-![Stars](https://img.shields.io/github/stars/kN6jq/gatherBurp)
-![Issues](https://img.shields.io/github/issues/kN6jq/gatherBurp)
+![License](https://img.shields.io/github/license/zhijing123/ODScan)
+![Stars](https://img.shields.io/github/stars/zhijing123/ODScan)
+![Issues](https://img.shields.io/github/issues/zhijing123/ODScan)
 
 ODScan是一个对开放目录进行扫描的工具，帮助你在海量文件中，迅速扫描存活文件，获得最大文件，下载文件（文件较多时不建议），程序支持文件内容正则匹配，程序执行完成后会在当前目录生成result.txt
 

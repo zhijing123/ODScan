@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/zhijing123/ODScan)
 ![Issues](https://img.shields.io/github/issues/zhijing123/ODScan)
 
-ODScan是一个对开放目录进行扫描的工具，帮助你在海量文件中，迅速扫描存活文件。并把结果输出到当前目录的result.txt
+ODScan是一个对开放目录进行扫描的工具，帮助你在海量文件中，迅速扫描存活文件。
 
 
 ![图片](https://github.com/user-attachments/assets/1ac6227a-14a8-4cc5-99af-d7e197dbb949)
